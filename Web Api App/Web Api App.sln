@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Api App", "Web Api App\Web Api App.csproj", "{D480C78D-2B83-47B8-B413-9D0331B056F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBEntity", "DBEntity\DBEntity.csproj", "{2E7E56F0-39CB-4595-A986-F4FE0E1DBEC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinesLogics", "BussinesLogics\BussinesLogics.csproj", "{29DDC8D3-5BE6-4D68-8ADD-D43597504AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D480C78D-2B83-47B8-B413-9D0331B056F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D480C78D-2B83-47B8-B413-9D0331B056F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D480C78D-2B83-47B8-B413-9D0331B056F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D480C78D-2B83-47B8-B413-9D0331B056F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E7E56F0-39CB-4595-A986-F4FE0E1DBEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7E56F0-39CB-4595-A986-F4FE0E1DBEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7E56F0-39CB-4595-A986-F4FE0E1DBEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7E56F0-39CB-4595-A986-F4FE0E1DBEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29DDC8D3-5BE6-4D68-8ADD-D43597504AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DDC8D3-5BE6-4D68-8ADD-D43597504AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DDC8D3-5BE6-4D68-8ADD-D43597504AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29DDC8D3-5BE6-4D68-8ADD-D43597504AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
